@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/AzureWebSearch/obj/Debug
+/ComputerVision/obj
+/ContentModerator/obj
+/FakeNewsAnalysis/bin/Release/netcoreapp2.1
+/FakeNewsAnalysis/obj
+/NaiveBayesClassification/obj
+/NaturalLanguageProcessing/obj/Debug
+/packages
+/SentimentAnalysis/obj
